@@ -77,3 +77,7 @@
 .units a {
   text-decoration: none;
 }
+
+.WeatherTemperature {
+  display: inline;
+}
