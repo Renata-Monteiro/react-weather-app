@@ -1,0 +1,78 @@
+.Search {
+  margin-top: -20px;
+}
+
+.Search .btn-light {
+  color: #6c757d;
+  background-color: #ffffff;
+  border-color: #ced4da;
+}
+
+.Header .city,
+.date,
+.description {
+  font-family: "Lato", sans-serif;
+  color: #27aaa2;
+}
+
+.Header .city {
+  text-align: left;
+  font-weight: bolder;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: -30px;
+}
+
+.Header ul {
+  margin: 0;
+  padding: 0;
+}
+
+.Header li {
+  list-style: none;
+}
+
+.Header .date {
+  text-align: left;
+  margin-left: 20px;
+  font-size: 18px;
+  padding-bottom: 0px;
+}
+
+.Header .description {
+  font-size: 20px;
+  text-align: left;
+  margin-left: 20px;
+  color: #27aaa2;
+  text-transform: capitalize;
+}
+
+.Weather .active {
+  color: #1e212d;
+}
+
+.Weather .currentData {
+  padding-left: 40px;
+  padding-top: 20px;
+  padding-top: 30px;
+}
+
+.Weather img {
+  padding-left: 10px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+.Weather .temperature {
+  font-size: 50px;
+}
+
+.Weather .units {
+  position: relative;
+  top: -22px;
+  font-size: 18px;
+}
+
+.units a {
+  text-decoration: none;
+}
