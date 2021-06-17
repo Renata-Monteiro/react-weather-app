@@ -11,7 +11,7 @@ ReactDOM.render(
     <div className="index">
       <footer>
         This project was coded by Renata Monteiro and is
-      <a href="https://github.com/Renata-Monteiro/react-weather-app" target="_blank" rel="noreferrer"> open sourced on GitHub </a>
+      <a href="https://github.com/Renata-Monteiro/react-weather-app" target="_blank" rel="noopener noreferrer"> open sourced on GitHub </a>
     </footer>
     </div>
     
